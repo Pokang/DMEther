@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="630.46089"
-     inkscape:cy="700.60894"
+     inkscape:zoom="7.0588235"
+     inkscape:cx="662"
+     inkscape:cy="948"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -313,7 +313,9 @@
        xml:space="preserve"
        id="flowRoot81"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-39.6875,3.4245967)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-39.6875,3.4245967)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
          id="flowRegion83"><rect
            id="rect85"
            width="758.84241"
@@ -325,7 +327,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara89">DMEther</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara91">Dispotitif de Monitoring Ether</flowPara></flowRoot>    <g
+         id="flowPara91">Dispositif de Monitoring Ether</flowPara></flowRoot>    <g
        id="g6268"
        transform="matrix(-0.06671523,0,0,0.06671523,72.580982,7.8583571)">
       <path
