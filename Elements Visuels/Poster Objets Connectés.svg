@@ -36,15 +36,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.0588235"
-     inkscape:cx="662"
-     inkscape:cy="948"
+     inkscape:zoom="0.44117647"
+     inkscape:cx="822.47223"
+     inkscape:cy="614.17135"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1796"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
@@ -116,8 +116,7 @@
            x="53.505238"
            y="339.62955"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara6159">1. Surveiller la bonne croissance des plantes à l'aide de 3 facteurs:</flowPara><flowPara
-         id="flowPara6161">-Température</flowPara><flowPara
+         id="flowPara6161">1. Surveiller la bonne croissance des plantes à l'aide de 3 facteurs:</flowPara><flowPara
          id="flowPara6163">-Nutriments</flowPara><flowPara
          id="flowPara6165">-Acidité</flowPara><flowPara
          id="flowPara6167" /><flowPara
@@ -313,13 +312,13 @@
        xml:space="preserve"
        id="flowRoot81"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-39.6875,3.4245967)"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.884167,4.0243189)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion83"><rect
            id="rect85"
-           width="758.84241"
-           height="502.28711"
+           width="848.59576"
+           height="168.0446"
            x="558"
            y="14.519653" /></flowRegion><flowPara
          id="flowPara87"
@@ -329,18 +328,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara91">Dispositif de Monitoring Ether</flowPara></flowRoot>    <g
        id="g6268"
-       transform="matrix(-0.06671523,0,0,0.06671523,72.580982,7.8583571)">
+       transform="matrix(-0.06671523,0,0,0.06671523,57.887788,8.7579404)">
       <path
          style="fill:#00a651;fill-opacity:1"
          inkscape:connector-curvature="0"
-         d="m -1441.1183,289.3959 33.9638,-3.25937 a 429.46111,429.46111 0 0 0 23.0843,-42.54861 l -15.0309,-3.3834 17.3895,-1.66874 c 8.3388,-18.14481 12.712,-30.68861 12.712,-30.68861 0,0 -69.001,7.23818 -125.3289,36.01769 l -14.0434,41.47054 0.3194,-33.84639 a 173.75069,173.75069 0 0 0 -17.9748,12.39694 c -57.5773,45.61384 -89.3556,101.39577 -70.9788,124.59241 18.3769,23.19665 79.9498,5.02385 137.5272,-40.58999 17.8495,-14.14071 33.3249,-32.97317 46.1865,-52.2288 z"
+         d="m -1755.7433,289.3959 33.9638,-3.25937 a 429.46111,429.46111 0 0 0 23.0843,-42.54861 l -15.0309,-3.3834 17.3895,-1.66874 c 8.3388,-18.14481 12.712,-30.68861 12.712,-30.68861 0,0 -69.001,7.23818 -125.3289,36.01769 l -14.0434,41.47054 0.3194,-33.84639 a 173.75069,173.75069 0 0 0 -17.9748,12.39694 c -57.5773,45.61384 -89.3556,101.39577 -70.9788,124.59241 18.3769,23.19665 79.9498,5.02385 137.5272,-40.58999 17.8495,-14.14071 33.3249,-32.97317 46.1865,-52.2288 z"
          id="path6271" />
       <g
          id="g6345"
          transform="matrix(-1.125142,0,0,1.125142,-3787.6904,16.4943)" />
       <path
          id="path6347"
-         d="m -2586.9066,261.68455 -8.9461,-32.92626 a 429.46111,429.46111 0 0 0 -45.8348,-15.57039 l -0.7975,15.38634 -4.5803,-16.85824 c -19.2921,-5.15611 -32.3941,-7.34903 -32.3941,-7.34903 0,0 18.7823,66.78887 56.6575,117.45023 l 43.2461,6.84123 -33.4146,5.39878 a 173.75069,173.75069 0 0 0 15.2534,15.62411 c 54.6788,49.05093 115.0247,70.95664 134.7862,48.92776 19.7616,-22.02899 -8.5445,-79.65049 -63.2234,-128.70152 -16.9509,-15.20625 -38.1255,-27.28055 -59.276,-36.70703 z"
+         d="m -2838.6066,261.68455 -8.9461,-32.92626 a 429.46111,429.46111 0 0 0 -45.8348,-15.57039 l -0.7975,15.38634 -4.5803,-16.85824 c -19.2921,-5.15611 -32.3941,-7.34903 -32.3941,-7.34903 0,0 18.7823,66.78887 56.6575,117.45023 l 43.2461,6.84123 -33.4146,5.39878 a 173.75069,173.75069 0 0 0 15.2534,15.62411 c 54.6788,49.05093 115.0247,70.95664 134.7862,48.92776 19.7616,-22.02899 -8.5445,-79.65049 -63.2234,-128.70152 -16.9509,-15.20625 -38.1255,-27.28055 -59.276,-36.70703 z"
          inkscape:connector-curvature="0"
          style="fill:#00a651;fill-opacity:1" />
     </g>
