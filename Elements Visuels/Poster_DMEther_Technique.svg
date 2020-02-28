@@ -17,7 +17,7 @@
    id="SVGRoot"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Poster_DMEther_Technique.svg"
-   inkscape:export-filename="C:\Users\Pokang\Documents\GitHub\DMEther\Elements Visuels\Poster_DMEther_Technique.png"
+   inkscape:export-filename="C:\Users\Pokang\Documents\GitHub\DMEther\Elements Visuels\Poster_DMEther.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -82,8 +82,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51699935"
-     inkscape:cx="934.76785"
-     inkscape:cy="568.36908"
+     inkscape:cx="754.38623"
+     inkscape:cy="568.41743"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,31 +159,37 @@
        xml:space="preserve"
        id="flowRoot6135"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,126.73543,-2.1166664)"
+       transform="matrix(0.26458333,0,0,0.26458333,121.10599,2.4892398)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
          id="flowRegion6137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
            id="rect6139"
-           width="551.1853"
-           height="288.27301"
+           width="553.11957"
+           height="738.95056"
            x="53.505238"
            y="339.62955"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara6173"
-         style="font-size:29.33333397px;text-align:start;text-anchor:start">-Microcontrôleur ESP32</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1813">-Sonde pH</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1815">-Capteur de débit d'eau</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1817">-Capteur d'électroconductivité</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1819">-Pompe à eau</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1821">-Panneau Solaire</flowPara><flowPara
-         style="font-size:29.33333397px;text-align:start;text-anchor:start"
-         id="flowPara1823">-Capteur du niveau de l'eau</flowPara></flowRoot>    <flowRoot
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1823">-Accessibilité</flowPara><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1082" /><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1072">-Possibilité de travail en milieux spéciaux (asséchés, irradiés)</flowPara><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1084" /><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1074">-Création de nouveaux emplois</flowPara><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1076">-Innovation</flowPara><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1086" /><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1078">-Monitoring en direct</flowPara><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1088" /><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="flowPara1080">-Précision des mesures amenant à des récoltes de meilleure qualité</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,287.60212,10.583333)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot1715"
@@ -223,13 +229,13 @@
          style="font-size:32px"
          id="flowPara1776">1. Contrôler la bonne croissance des plantes à l'aide de 4 facteurs:</flowPara><flowPara
          style="font-size:32px"
-         id="flowPara1778">-Nutriments</flowPara><flowPara
+         id="flowPara1778">-Nutriments (EC)</flowPara><flowPara
          style="font-size:32px"
-         id="flowPara1780">-Acidité</flowPara><flowPara
+         id="flowPara1780">-Acidité (pH)</flowPara><flowPara
          style="font-size:32px"
-         id="flowPara1782">-Débit de l'eau</flowPara><flowPara
+         id="flowPara1782">-Débit de l'eau (L/h)</flowPara><flowPara
          id="flowPara1784"
-         style="font-size:32px">-Température</flowPara><flowPara
+         style="font-size:32px">-Température (°C)</flowPara><flowPara
          style="font-size:32px"
          id="flowPara1786" /><flowPara
          style="font-size:32px"
@@ -249,24 +255,31 @@
            x="1171.4829"
            y="767.52484" /></flowRegion><flowPara
          id="flowPara1063"
-         style="font-size:74.66666412px;fill:#ffffff">Photo</flowPara></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="SchemaFond"
-     style="display:inline">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot972"
+         style="font-size:74.66666412px;fill:#ffffff">Photo</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-127.49329,21.174268)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Poetsen One';-inkscape-font-specification:'Poetsen One';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="scale(0.26458333)"><flowRegion
-         id="flowRegion974"><rect
-           id="rect976"
-           width="393.26666"
-           height="43.066666"
-           x="568.93335"
-           y="580.78638" /></flowRegion><flowPara
-         id="flowPara978">- - - - - - </flowPara></flowRoot>  </g>
+       id="flowRoot1096"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1092"><rect
+           y="767.52484"
+           x="1171.4829"
+           height="227.61432"
+           width="309.05432"
+           id="rect1090" /></flowRegion><flowPara
+         style="font-size:74.66666412px;fill:#ffffff"
+         id="flowPara1094">ILLUSTRATIOIllIl</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-149.02749,27.315475)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Poetsen One';-inkscape-font-specification:'Poetsen One';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1113"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1109"><rect
+           y="767.52484"
+           x="1171.4829"
+           height="208.96616"
+           width="429.29816"
+           id="rect1107" /></flowRegion><flowPara
+         style="font-size:74.66666412px;fill:#ffffff"
+         id="flowPara1111">Illustration</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -335,7 +348,7 @@
            width="347.79932"
            id="rect6119" /></flowRegion><flowPara
          id="flowPara6123"
-         style="text-align:center;text-anchor:middle">Equipements</flowPara></flowRoot>    <flowRoot
+         style="text-align:center;text-anchor:middle">Avantages</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6133"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
@@ -365,7 +378,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Schema">
+     inkscape:label="Schema"
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot988"
@@ -735,11 +749,6 @@
            y="1139.1367"
            style="font-size:16px;fill:#ffffff" /></flowRegion><flowPara
          id="flowPara1693">Culture hydroponique</flowPara></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Pointillés"
-     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
