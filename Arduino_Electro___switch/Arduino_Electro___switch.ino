@@ -17,7 +17,6 @@ pinMode(FLOAT_SENSOR, INPUT_PULLUP);
 
 void loop() 
 {
-  delay(2000);
     if(digitalRead(FLOAT_SENSOR) == HIGH) 
   {
     Serial.println("Haut");
@@ -26,7 +25,7 @@ void loop()
   {
    Serial.println("Bas");
   }
-  
+    delay(2000);
 static unsigned long analogSampleTimepoint = millis();
 if(millis()-analogSampleTimepoint > 40U) //every 40 milliseconds,read the analog value from the ADC
 {
@@ -77,5 +76,10 @@ bTemp = bTab[(iFilterLen - 1) / 2];
 else
 bTemp = (bTab[iFilterLen / 2] + bTab[iFilterLen / 2 - 1]) / 2;
 return bTemp;
-
+ // read the input on analog pin 0:
+ int sensorValue = analogRead(A0);
+ // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
+ float voltage = sensorValue * (5.0 / 1023.0);
+ // print out the value you read:
+ Serial.println(voltage);
 }

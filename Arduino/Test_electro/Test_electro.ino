@@ -1,6 +1,9 @@
 #define TdsSensorPin A1
 #define VREF 5.0 // analog reference voltage(Volt) of the ADC
 #define SCOUNT 30 // sum of sample point
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 int analogBuffer[SCOUNT]; // store the analog value in the array, read from ADC
 int analogBufferTemp[SCOUNT];
 int analogBufferIndex = 0,copyIndex = 0;
@@ -9,6 +12,8 @@ void setup()
 {
 Serial.begin(115200);
 pinMode(TdsSensorPin,INPUT);
+lcd.begin(16, 2);
+lcd.clear();
 }
 void loop()
 {
@@ -37,6 +42,11 @@ tdsValue=(133.42*compensationVolatge*compensationVolatge*compensationVolatge - 2
 Serial.print("TDS Value:");
 Serial.print(tdsValue,0);
 Serial.println("ppm");
+ lcd.setCursor(0,0);
+  lcd.print("Conductivite :");
+  lcd.setCursor(0,1);
+  lcd.print(tdsValue,0);
+  lcd.print(" ppm");
 }
 }
 int getMedianNum(int bArray[], int iFilterLen)
